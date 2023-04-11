@@ -1,0 +1,16 @@
+.first-div{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.first-div > h1{
+    margin: auto;
+    margin: 0px;
+    align-self: center;
+
+}
+
+.second-div{
+    height:50vh;
+}
